@@ -1,0 +1,1 @@
+<a href="./index.php?Name=後藤">ページリンク</a>
