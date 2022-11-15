@@ -109,7 +109,7 @@ function folda_create($folda_path)
                   <td class="process">
                      <select id="Select_Bank">
                         <option></option>
-                        <option value="12@5">四国銀行</option>
+                        <option value="12@5">maru銀行</option>
                      </select>
                   </td>
                </tr>
